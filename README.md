@@ -30,6 +30,8 @@ Strings command to gather informaton before attempted to unpack and/or decompres
 To unpack the firmware, I ran the following binwalk command
   binwalk -eM merkury.bin
 
+I have also chose to add the user manual for the camera which I acquired usin the fcc id. 
+
 Any thoughts and feedback on any of this would be greatly appreciated. Thank you. 
 
                                                                                 Live, Love, Linux

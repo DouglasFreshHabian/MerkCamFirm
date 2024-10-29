@@ -8,18 +8,23 @@ As I make further progress in reverse engineering the firmware and performing st
 I will add my personal results from it all to this repo.
 
 The main tools that I have used to get to this point are: 
+  
   flashrom
   strings
   binwalk
 
-Command to dump the firmware:
+Commands to dump the firmware:
+
   flashrom --programmer ch341a_spi
+  
   flashrom --programmer ch341a_spi  --chip [Name of Chip] --read merkury.bin
 
 Strings command to gather informaton before attempted to unpack and/or decompress the firmware blob
+  
   strings -n 10 merkury.bin
 
 To unpack the firmware, I ran the following binwalk command
+  
   binwalk -eM merkury.bin
 
 ######################################################################################################

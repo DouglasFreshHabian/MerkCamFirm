@@ -39,4 +39,5 @@ Any thoughts and feedback on any of this would be greatly appreciated. Thank you
                                                                                 Live, Love, Linux
                                                                                 Douglas Fresh Habian
 
-  edd
+  edd![Screenshot from 2024-11-06 22-26-26](https://github.com/user-attachments/assets/7d6c8884-61ca-4a92-818d-3141868cd6ba)
+

@@ -72,31 +72,25 @@ This repository contains the following files and directories:
 
    - **User Manual:** A copy of the Merkury IP Camera's user manual, obtained via its FCC ID, to provide additional context for the device.      
 
-## Videos
+# Videos
 
 
-
-
-
-
-
+## 🔗 ["Extract IP Camera Firmware For Reverse Engineering"](https://youtu.be/P7yIM5AozEg?feature=shared)
 
 <img src="https://github.com/DouglasFreshHabian/MerkCamFirm/blob/main/graphics/Extract-IP-Camera-Firmware-For-Reverse-Engineering.png" alt="Thumbnail1"/>
 
 
 
-
-
+## 🔗 ["Reverse Engineering IP Camera Firmware - Full Video"](https://youtu.be/jVe67nDcmy8?feature=shared)
 
 <img src="https://github.com/DouglasFreshHabian/MerkCamFirm/blob/main/graphics/Reverse-Engineering-IP-Camera-Full-Video.png?raw=true" alt="Thumbnail1"/>
 
 
 
 
-["Extract IP Camera Firmware For Reverse Engineering"](https://youtu.be/P7yIM5AozEg?feature=shared)
 
 
-["Reverse Engineering IP Camera Firmware - Full Video"](https://youtu.be/jVe67nDcmy8?feature=shared)
+
 
 
 

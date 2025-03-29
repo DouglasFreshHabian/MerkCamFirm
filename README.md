@@ -75,13 +75,14 @@ This repository contains the following files and directories:
 # Videos
 
 
-## 🔗 ["Extract IP Camera Firmware For Reverse Engineering"](https://youtu.be/P7yIM5AozEg?feature=shared)
+
+## 🔗 ["Extract IP Camera Firmware For Reverse Engineering"](https://youtu.be/P7yIM5AozEg?feature=shared)  Part-1
 
 <img src="https://github.com/DouglasFreshHabian/MerkCamFirm/blob/main/graphics/Extract-IP-Camera-Firmware-For-Reverse-Engineering.png" alt="Thumbnail1"/>
 
 
 
-## 🔗 ["Reverse Engineering IP Camera Firmware - Full Video"](https://youtu.be/jVe67nDcmy8?feature=shared)
+## 🔗 ["Reverse Engineering IP Camera Firmware - Full Video"](https://youtu.be/jVe67nDcmy8?feature=shared)  Part-2
 
 <img src="https://github.com/DouglasFreshHabian/MerkCamFirm/blob/main/graphics/Reverse-Engineering-IP-Camera-Full-Video.png?raw=true" alt="Thumbnail1"/>
 

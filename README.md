@@ -5,30 +5,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18ACF7&width=435&lines=Extract+IP+Camera+Firmware;For+Reverse+Engineering;" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71818&width=435&lines=Extract+IP+Camera+Firmware...;For+Reverse+Engineering...;Reverse+Engineering...;IP+Camera+Firmware...;Runtime+Analysis+%26+Exploitation..." alt="Typing SVG" /></a>
 
-## Firmware 💩 Dump of Merkury [MI-CW051] IP Camera (SPI Flash)
+## Firmware 💩 Dump of Merkury [MI-CW051] IP Camera (SPI Flash) 🔦
 
 Welcome to [MerkCamFirm](https://github.com/DouglasFreshHabian/MerkCamFirm) – a repository that contains the firmware dumped from the Merkury MI-CW051 1080p IP camera. This project is for anyone interested in exploring, reverse-engineering, or performing security research on the firmware of IoT devices.
 
 The firmware here was extracted using a CH341A SPI programmer and the `flashrom` utility. The resulting firmware image, merkury.bin, is shared in its raw form, enabling anyone to dive into static analysis, emulation, or any other form of research.
 
-## Why This Project?
+## Why This Project? 🗯
 
 The goal of this project is to offer a transparent look into the firmware of a widely used consumer device. As part of my ongoing reverse engineering efforts, I will continue to add insights, static and dynamic analysis results, and modifications to this repository.
 
 Whether you’re a Linux enthusiast, a security researcher, a reverse engineer, or a hacker, this project aims to provide useful resources to help uncover how the firmware operates and potentially identify vulnerabilities, security flaws, or other points of interest.
 
-## Tools:
+## Tools: 🛠
 
-### Software:
+### Software: 💾
   1. flashrom:  To interface with the SPI chip.
   2. strings:   For gathering information from the binary.
   3. binwalk:   For unpacking and extracting files from the firmware.
 
-### Hardware:
+### Hardware: 💻
   1. ch341a_spi bios/eeprom spi flash chip programmer
   2. Computer running Linux (kali Linux, Ubuntu)
 
-## Methodology:
+## Methodology: 🌍🔎
 
 Probe for the flash chip:
 ```bash
@@ -38,7 +38,7 @@ Read and dump the firmware:
 ```bash
     flashrom --programmer ch341a_spi --chip [Chip Name] --read merkury.bin
 ```
-## Basic Analysis of the Firmware:
+## Basic Analysis of the Firmware: 💻🕵️  
 To gather basic strings and identify potential embedded information in the firmware before performing further analysis:
 Commands:
 ```bash
@@ -50,7 +50,7 @@ Commands:
 
    hexdump -C | head               # Looking for signatures in the header
 ```
-## Unpacking the Firmware:
+## Unpacking the Firmware: 🔐
 To unpack the firmware and extract embedded files or hidden elements, I used binwalk:
 ```bash
    binwalk merkury.bin             # Ran with no options, binwalk will scan the image and print the results to the screen

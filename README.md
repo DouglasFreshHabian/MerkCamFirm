@@ -28,7 +28,7 @@ Whether you’re a Linux enthusiast, a security researcher, a reverse engineer, 
   1. ch341a_spi bios/eeprom spi flash chip programmer
   2. Computer running Linux (kali Linux, Ubuntu)
 
-## Methodology: 🌍🔎
+## Methodology: 🔍🌍
 
 Probe for the flash chip:
 ```bash
@@ -50,7 +50,7 @@ Commands:
 
    hexdump -C | head               # Looking for signatures in the header
 ```
-## Unpacking the Firmware: 🔐
+## Unpacking the Firmware: 🔐🌐
 To unpack the firmware and extract embedded files or hidden elements, I used binwalk:
 ```bash
    binwalk merkury.bin             # Ran with no options, binwalk will scan the image and print the results to the screen
@@ -60,7 +60,17 @@ To unpack the firmware and extract embedded files or hidden elements, I used bin
    binwalk -eM merkury.bin         # Extract known file types (-e), and recursively scan extracted files (-M)
 ```  
 
+## Repository Contents
 
+This repository contains the following files and directories:
+     
+   - **merkury.bin**: The raw firmware dump from the Merkury IP Camera's SPI flash chip.
+     
+   - **'Merkury' Directory:** Contains images of the camera, the circuit board, and various tools used during the extraction process.
+
+   - **hashes.txt:** A file containing various hashes of the merkury.bin firmware, useful for verifying the integrity of the binary.
+
+   - **User Manual:** A copy of the Merkury IP Camera's user manual, obtained via its FCC ID, to provide additional context for the device.      
 
 
 

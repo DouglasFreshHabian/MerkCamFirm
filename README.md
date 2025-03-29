@@ -72,6 +72,7 @@ This repository contains the following files and directories:
 
    - **User Manual:** A copy of the Merkury IP Camera's user manual, obtained via its FCC ID, to provide additional context for the device.      
 
+## Videos
 
 
 
@@ -80,12 +81,14 @@ This repository contains the following files and directories:
 
 
 
+<img src="https://github.com/DouglasFreshHabian/MerkCamFirm/blob/main/graphics/Extract-IP-Camera-Firmware-For-Reverse-Engineering.png" alt="Thumbnail1"/>
 
 
 
 
 
 
+<img src="https://github.com/DouglasFreshHabian/MerkCamFirm/blob/main/graphics/Reverse-Engineering-IP-Camera-Full-Video.png?raw=true" alt="Thumbnail1"/>
 
 
 
@@ -97,5 +100,4 @@ This repository contains the following files and directories:
 
 
 
-  edd![Screenshot from 2024-11-06 22-26-26](https://github.com/user-attachments/assets/7d6c8884-61ca-4a92-818d-3141868cd6ba)
 

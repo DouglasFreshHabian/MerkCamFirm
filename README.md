@@ -91,7 +91,7 @@ This repository contains the following files and directories:
 
 This is an open project, and I welcome contributions and feedback from the community. If you have insights, improvements, or additional findings related to the firmware, please feel free to submit issues or pull requests.
 
-
+## 👍 [https://www.youtube.com/@DouglasHabian-tq5ck](https://www.youtube.com/@DouglasHabian-tq5ck) 
 
 ### Feedback & Questions
 

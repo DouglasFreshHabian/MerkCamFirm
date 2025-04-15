@@ -29,6 +29,9 @@ Whether you’re a Linux enthusiast, a security researcher, a reverse engineer, 
   2. Computer running Linux (kali Linux, Ubuntu)
 
 ## Methodology: 🔍🌍
+<details>
+  
+<summary>🖱 Click here to expand</summary>
 
 Probe for the flash chip:
 ```bash
@@ -59,6 +62,7 @@ To unpack the firmware and extract embedded files or hidden elements, I used bin
 
    binwalk -eM merkury.bin         # Extract known file types (-e), and recursively scan extracted files (-M)
 ```  
+</details>
 
 ## Repository Contents
 

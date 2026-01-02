@@ -90,24 +90,24 @@ This repository contains the following files and directories:
 
 <img src="https://github.com/DouglasFreshHabian/MerkCamFirm/blob/main/graphics/Reverse-Engineering-IP-Camera-Full-Video.png?raw=true" alt="Thumbnail1"/>
 
-
-## Contributing & Collaboration
-
-This is an open project, and I welcome contributions and feedback from the community. If you have insights, improvements, or additional findings related to the firmware, please feel free to submit issues or pull requests.
-
-## 👍 [https://www.youtube.com/@DouglasHabian-tq5ck](https://www.youtube.com/@DouglasHabian-tq5ck) 
-
-### Feedback & Questions
+## 💬 Feedback & Contributions
 
 Your thoughts, questions, and feedback are greatly appreciated! Feel free to open an issue or leave a comment. Let’s collaborate and make this project even better.
 
 Thank you for checking out MerkCamFirm. Stay tuned for future updates, and happy reverse engineering!
 
+## ☕ Support This Project
 
+If **MerkCamFirm™** helps you in any way, consider supporting continued development:
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dfreshZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 
+---
 
-
-<!-- dfresh@tutanota.com Fresh Forensics, LLC 2025 -->
-
-
+<!-- 
+    Fresh Forensics, LLC | Douglas Fresh Habian | 2025
+    github.com/DouglasFreshHabian
+    freshforensicsllc@tuta.com
+-->
